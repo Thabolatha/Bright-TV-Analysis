@@ -16,9 +16,9 @@ decisions to grow BrightTV's user base and increase platform engagement.
 | File | Description |
 |------|-------------|
 | `brighttv_viewership.sql` | SQL queries used to extract and analyse viewership data from Databricks |
-| `Bright TV Viewership Presentation.pdf` | CEO-level presentation covering key insights and recommendations |
-| `Bright TV Viewership miro.pdf` | Miro board used for project planning and visual mapping |
-| `Viewership Gantt Chart.pdf` | Project timeline and task management Gantt chart |Excel graphs
+| `Bright TV Viewership Presentation.pdf` |  presentation covering key insights and recommendations |
+| `Bright TV Viewership miro.pdf` | Miro board  |
+| `Viewership Gantt Chart.pdf` |  Gantt chart |Excel graphs
 | `README.md` | Project documentation |
 
 ---
