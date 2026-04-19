@@ -56,8 +56,9 @@ decisions to grow BrightTV's user base and increase platform engagement.
 ---
 
 ## 📊 Data Source
-The analysis is based on BrightTV's internal viewership dataset accessed via Databricks workspace.
-
+The dataset attached contains information on the user profiles and viewer 
+transactions for BrightTV. The two tables were joined using a LEFT JOIN 
+in Databricks SQL to create a unified dataset for analysis.
 ---
 
 ## 🚀 Recommendations Summary
